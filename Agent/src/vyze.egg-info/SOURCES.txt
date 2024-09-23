@@ -1,0 +1,7 @@
+setup.py
+src/vyze/__init__.py
+src/vyze.egg-info/PKG-INFO
+src/vyze.egg-info/SOURCES.txt
+src/vyze.egg-info/dependency_links.txt
+src/vyze.egg-info/requires.txt
+src/vyze.egg-info/top_level.txt
